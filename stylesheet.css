@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+}
+
+#firstName {
+    margin-left: 15px;
+    width: 75px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+
+#lastName {
+    width: 75px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+
+#age {
+    margin-left: 15px;
+    width: 75px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+
+#email {
+    margin-left: 15px;
+    width: 100px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+
+#submitButton {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+    color: black;
+    border: 2px solid black; 
+  }
+
+  #reset {
+    background-color: white;
+    color: black;
+    border: 2px solid black; 
+  }
+
+
+  #form1 {
+    outline-style: solid;
+    margin-right: 650px;
+  }
+
+  #responseHere {
+    outline-style: dashed;
+    margin-right: 650px;
+    margin-top: 10px;
+  }
